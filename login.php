@@ -25,6 +25,12 @@
             <p>
                 <input type="submit" value="Submit" /> <input type="reset" value="Reset" />
             </p>
+
+            <p style="color: #CC0000">
+                <!--- This project's code can be found on <a href="https://github.com/noble-man/tfe"></a>. --->
+                This project's code can be found on <a href="#" onclick="window.open('https://github.com/noble-man/tfe');">github</a>.
+
+            </p>
         </form>
     </body>
 </html>
