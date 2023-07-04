@@ -81,6 +81,9 @@
 							<option value='1'>1</option>
 							<option value='2'>2</option>
 							<option value='3'>3</option>
+							<option value='1'>4</option>
+							<option value='2'>5</option>
+							<option value='3'>6</option>
 					</select>
 				</p>
 				 
